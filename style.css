@@ -23,6 +23,9 @@ img {
   margin: 100px auto;
   padding: 15px;
   border-radius: 10px;
+  display:flex;
+  justify-content:center;
+  justify-item: center;
   text-align: center;
 }
 
